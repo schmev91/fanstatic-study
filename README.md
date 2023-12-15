@@ -1,4 +1,4 @@
-# setup for a fanstatic stuty experience with typescript and tailwind
+# fanstatic stuty experience with typescript and tailwind
 
 - yarn tw - Start the Tailwind CLI build process
 
